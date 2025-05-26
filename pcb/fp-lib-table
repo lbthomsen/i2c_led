@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "i2c_led")(type "KiCad")(uri "${KIPRJMOD}/i2c_led.pretty")(options "")(descr ""))
+)
