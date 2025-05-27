@@ -231,7 +231,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1592"
+		(property "LCSC" "C15849"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -409,7 +409,7 @@
 				)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "4k7"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "9d1db616-22f6-46fb-b6b8-1232ee36d186")
@@ -444,7 +444,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C21190"
+		(property "LCSC" "C23162"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1995,7 +1995,7 @@
 				)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "10k"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "f37cd0dd-4c4b-42c6-bf48-14c44d9d34f5")
@@ -2030,7 +2030,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C14675"
+		(property "LCSC" "C25804"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2418,7 +2418,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C3"
-			(at 0 1.27 270)
+			(at 0 1.27 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "c3202eac-a4ee-46e4-88d1-b650e7a4d33d")
@@ -2642,7 +2642,7 @@
 				)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "4k7"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "438994c6-0a40-42b2-ac5f-7ad10b3712ee")
@@ -2677,7 +2677,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C21190"
+		(property "LCSC" "C23162"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
