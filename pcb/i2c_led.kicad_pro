@@ -43,8 +43,8 @@
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
-        "silk_text_size_h": 1.0,
-        "silk_text_size_v": 1.0,
+        "silk_text_size_h": 0.8,
+        "silk_text_size_v": 0.8,
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
@@ -58,12 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "silk_overlap|139572419|95265714|5fa103d5-4afa-4e87-bbbf-f1d26dc09f9c|f6cbafcc-e16b-4b6c-9861-3c2ebcb16613",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -508,8 +503,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
-      "pos_files": "",
+      "plot": "reva/",
+      "pos_files": "reva/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -586,7 +581,7 @@
           "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -598,7 +593,7 @@
           "group_by": true,
           "label": "Exclude from Board",
           "name": "${EXCLUDE_FROM_BOARD}",
-          "show": true
+          "show": false
         }
       ],
       "filter_string": "",
@@ -657,7 +652,9 @@
   "text_variables": {
     "AUTHOR": "Lars Boegild Thomsen",
     "AUTHOR_EMAIL": "lbthomsen@gmail.com",
+    "COMPANY": "STM32World",
     "REVISION": "a",
-    "TITLE": "I2C LED"
+    "TITLE": "I2C LED",
+    "URL": "https://stm32world.com/wiki/I2C_RGB_LED_Board"
   }
 }

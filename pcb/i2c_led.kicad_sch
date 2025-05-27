@@ -3958,6 +3958,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C965840"
+			(at 151.13 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "14"
 			(uuid "e76dd499-0e14-4701-96e9-9f473c70a58a")
 		)
@@ -4478,7 +4487,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "9d057aa0-4de2-4aa6-b4bc-e58f0feed8c6")
