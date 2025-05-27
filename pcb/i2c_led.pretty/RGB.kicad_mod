@@ -65,6 +65,16 @@
 		(uuid "2a33ae8d-5962-4fa4-bc39-414c48432d03")
 	)
 	(fp_line
+		(start -1 0.9)
+		(end 1 0.9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "a28965fc-0802-46e1-9cfd-c8d8b1719f62")
+	)
+	(fp_line
 		(start -0.6 -0.9)
 		(end -1 -0.9)
 		(stroke
@@ -75,44 +85,54 @@
 		(uuid "579e7eae-df9b-488b-af86-00641fec84e1")
 	)
 	(fp_line
-		(start -1 -0.9)
+		(start -0.6 -0.9)
 		(end 1 -0.9)
 		(stroke
 			(width 0.1)
 			(type default)
 		)
-		(layer "Dwgs.User")
-		(uuid "1a9ce794-7056-447e-af6c-ae7a0e294f2c")
+		(layer "F.SilkS")
+		(uuid "18ae850a-40fb-4c8f-9ce8-a339b1644680")
 	)
 	(fp_line
-		(start -1 0.9)
-		(end -1 -0.9)
+		(start -1 -0.9)
+		(end -1 0.9)
 		(stroke
-			(width 0.1)
+			(width 0.05)
 			(type default)
 		)
-		(layer "Dwgs.User")
-		(uuid "e7e14f93-3d69-41bd-a6da-f7fe36d27584")
+		(layer "F.CrtYd")
+		(uuid "68b71398-b253-40df-934e-dd2de341d913")
+	)
+	(fp_line
+		(start -1 -0.9)
+		(end 1 -0.9)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "9ddc2ad2-be60-411d-bd4f-5ad8e819bb0d")
 	)
 	(fp_line
 		(start 1 -0.9)
 		(end 1 0.9)
 		(stroke
-			(width 0.1)
+			(width 0.05)
 			(type default)
 		)
-		(layer "Dwgs.User")
-		(uuid "823e2c43-80d8-48e0-8843-25ececb7b0e5")
+		(layer "F.CrtYd")
+		(uuid "d0eaecee-40bd-4468-852f-b78ce23dbe60")
 	)
 	(fp_line
 		(start 1 0.9)
 		(end -1 0.9)
 		(stroke
-			(width 0.1)
+			(width 0.05)
 			(type default)
 		)
-		(layer "Dwgs.User")
-		(uuid "4cdb5cf1-1f55-41ae-802d-465d274b8bbb")
+		(layer "F.CrtYd")
+		(uuid "e4fc78e6-227b-4692-acc5-758151dc5329")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 3.4 0)
@@ -159,4 +179,15 @@
 		(uuid "c15596fe-7c23-4319-8784-f19b7874de67")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/i2c_led.pretty/LED-ARRAY-SMD_4P-L1.6-W1.5-BR_XL-1615RGBC-RF.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
