@@ -3996,8 +3996,13 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
+		(property "LCSC" "C148077"
+			(at 151.13 91.44 0)
+=======
 		(property "LCSC" "C965840"
 			(at 154.94 91.44 0)
+>>>>>>> 4efbb67b7dd982ccbd9a6c6e1e0fed627c39d980
 			(effects
 				(font
 					(size 1.27 1.27)

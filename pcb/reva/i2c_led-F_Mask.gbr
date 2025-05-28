@@ -1,12 +1,21 @@
+<<<<<<< HEAD
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,9.0.2+dfsg-1*
+G04 #@! TF.CreationDate,2025-05-28T16:18:43+08:00*
+=======
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,9.0.1+dfsg-1*
 G04 #@! TF.CreationDate,2025-05-27T21:30:09+08:00*
+>>>>>>> 4efbb67b7dd982ccbd9a6c6e1e0fed627c39d980
 G04 #@! TF.ProjectId,i2c_led,6932635f-6c65-4642-9e6b-696361645f70,a*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+<<<<<<< HEAD
+G04 Created by KiCad (PCBNEW 9.0.2+dfsg-1) date 2025-05-28 16:18:43*
+=======
 G04 Created by KiCad (PCBNEW 9.0.1+dfsg-1) date 2025-05-27 21:30:09*
+>>>>>>> 4efbb67b7dd982ccbd9a6c6e1e0fed627c39d980
 %MOMM*%
 %LPD*%
 G01*
