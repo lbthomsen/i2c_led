@@ -4360,6 +4360,18 @@
 			(justify left top mirror)
 		)
 	)
+	(gr_text "${COMPANY}"
+		(at 156.21 101.6 0)
+		(layer "B.SilkS")
+		(uuid "502698a8-7114-4eec-ba69-2ffc7b41d556")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "RST"
 		(at 137.16 99.06 90)
 		(layer "B.SilkS")
@@ -4458,7 +4470,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "0.55"
+		(gr_text "550"
 			(at 130.295 96.52 90)
 			(layer "Dwgs.User")
 			(uuid "3c1356be-ad6e-4ef6-bc88-ee271784f009")
@@ -4496,7 +4508,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "0.9"
+		(gr_text "900"
 			(at 145.415 86.345 0)
 			(layer "Dwgs.User")
 			(uuid "9b68a1ac-21c7-41c8-b76b-1d1bf3e4946f")
