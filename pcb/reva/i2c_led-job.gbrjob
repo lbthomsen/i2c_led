@@ -5,11 +5,7 @@
       "Application": "Pcbnew",
       "Version": "9.0.2+dfsg-1"
     },
-<<<<<<< HEAD
-    "CreationDate": "2025-05-28T16:18:43+08:00"
-=======
-    "CreationDate": "2025-05-27T21:30:09+08:00"
->>>>>>> 4efbb67b7dd982ccbd9a6c6e1e0fed627c39d980
+    "CreationDate": "2025-05-31T07:41:50+08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {

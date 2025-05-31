@@ -4470,7 +4470,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "550"
+		(gr_text "13.97"
 			(at 130.295 96.52 90)
 			(layer "Dwgs.User")
 			(uuid "3c1356be-ad6e-4ef6-bc88-ee271784f009")
@@ -4508,7 +4508,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "900"
+		(gr_text "22.86"
 			(at 145.415 86.345 0)
 			(layer "Dwgs.User")
 			(uuid "9b68a1ac-21c7-41c8-b76b-1d1bf3e4946f")
