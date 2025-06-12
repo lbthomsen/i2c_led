@@ -503,8 +503,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "reva/",
-      "pos_files": "reva/",
+      "plot": "revb/",
+      "pos_files": "revb/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -653,7 +653,7 @@
     "AUTHOR": "Lars Boegild Thomsen",
     "AUTHOR_EMAIL": "lbthomsen@gmail.com",
     "COMPANY": "STM32World",
-    "REVISION": "a",
+    "REVISION": "b",
     "TITLE": "I2C LED",
     "URL": "https://stm32world.com/wiki/I2C_RGB_LED_Board"
   }
