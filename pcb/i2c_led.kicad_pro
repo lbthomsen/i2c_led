@@ -653,7 +653,7 @@
     "AUTHOR": "Lars Boegild Thomsen",
     "AUTHOR_EMAIL": "lbthomsen@gmail.com",
     "COMPANY": "STM32World",
-    "REVISION": "b",
+    "REVISION": "c",
     "TITLE": "I2C LED",
     "URL": "https://stm32world.com/wiki/I2C_RGB_LED_Board"
   }
