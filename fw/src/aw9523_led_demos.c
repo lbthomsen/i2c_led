@@ -16,6 +16,7 @@
  */
 
 #include "aw9523.h"
+#include "i2c_led.h"
 #include "aw9523_led_demos.h"
 
 const uint8_t led_values[][5][3] = {
@@ -103,6 +104,7 @@ void aw9523_led_demo_tick(AW9523_HandleTypeDef *aw9523_handle) {
         if (tick_cnt % 20 == 0) {
 
             for (int a = 0; a < 5; ++a) {
+//                i2c_set_led(aw9523_handle, a, led_values[a][0], led_values[a][1], led_values[a][2]);
                 for (int b = 0; b < 3; ++b) {
                     aw9523_write_register(aw9523_handle, led_mapping[a][b], led_values[led_idx][a][b]);
                 }

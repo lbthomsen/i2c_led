@@ -1,0 +1,5 @@
+../ws9523/aw9523.c:22:22:aw9523_write	2
+../ws9523/aw9523.c:32:22:aw9523_read	2
+../ws9523/aw9523.c:44:22:aw9523_write_register	2
+../ws9523/aw9523.c:54:22:aw9523_read_register	2
+../ws9523/aw9523.c:64:22:aw9523_init	3

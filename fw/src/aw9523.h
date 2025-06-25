@@ -21,6 +21,7 @@
 #include "main.h"
 
 #ifdef xxxDEBUG
+#include <stdio.h>
 #define AW9523_DBG(...)    printf(__VA_ARGS__)
 #else
 #define AW9523_DBG(...)
