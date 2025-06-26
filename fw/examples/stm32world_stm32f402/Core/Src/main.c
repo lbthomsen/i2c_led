@@ -52,8 +52,8 @@ UART_HandleTypeDef huart1;
 
 AW9523_HandleTypeDef aw9523_handle;
 
-uint32_t tim_cnt;
-uint8_t update_leds;
+//uint32_t tim_cnt;
+//uint8_t update_leds;
 
 /* USER CODE END PV */
 
@@ -168,7 +168,7 @@ int main(void)
         }
 
         if (now >= next_tick) {
-            printf("Tick %lu (loop=%lu tim=%lu)\n", now / 1000, loop_cnt, tim_cnt);
+            printf("Tick %lu (loop=%lu)\n", now / 1000, loop_cnt);
             loop_cnt = 0;
             next_tick = now + 1000;
         }
